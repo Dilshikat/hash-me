@@ -1,0 +1,17 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f0f0;
+color: #333;
+}
+
+h1 {
+font-size: 24px;
+color: #007bff;
+}
+
+/* You found the last hash. but this hash is not in usual way, think in terms of base 64*/
+/*N2RlMzhmM2MzZDNiYWE3Y2E1OGEzNjZmMDk1Nzc1ODY=*/
+/*now you have found the secret file name*/
+/* good luck finding the flag:) */
+
+
