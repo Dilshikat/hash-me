@@ -1,5 +1,4 @@
 <!DOCTYPE HTML>
-<html>
 <head>
     <title>Hash me :)</title>
     <script src="script.js"></script>
